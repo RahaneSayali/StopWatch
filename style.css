@@ -1,7 +1,7 @@
 body{
     margin: 0%;
     padding: 0%;
-    background: linear-gradient(to right, #AA076B, #61045F);
+    background: linear-gradient(to right, #e20a8f, #e97fe7);
     overflow: hidden;
 }
 .container{
@@ -24,7 +24,7 @@ button{
     width: 180px;
     margin: 10px;
     border-radius: 15px;
-    color: #AA076B;
+    color: #ee9fd0;
     font-weight: bold;
 }
 button:hover{
